@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AumVyas
 - 👀 I’m interested in learning more about Cybersecurity.
 - 🌱 I’m currently learning Python and Cybersecurity.
-- 📫 How to reach me through twitter @aum_vyas
+- 📫 You can reach me through twitter @aum_vyas
 
 <!---
 AumVyas/AumVyas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
