@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AumVyas
-- 👀 I’m interested in learning more about cybersecurity.
+- 👀 I’m interested in learning more about Cybersecurity.
 - 🌱 I’m currently learning Python and Cybersecurity.
 - 📫 How to reach me through twitter @aum_vyas
 
